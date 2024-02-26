@@ -1,0 +1,14 @@
+D:\Visual\Control2\bin\Debug\net8.0\Control2.exe
+D:\Visual\Control2\bin\Debug\net8.0\Control2.deps.json
+D:\Visual\Control2\bin\Debug\net8.0\Control2.runtimeconfig.json
+D:\Visual\Control2\bin\Debug\net8.0\Control2.dll
+D:\Visual\Control2\bin\Debug\net8.0\Control2.pdb
+D:\Visual\Control2\obj\Debug\net8.0\Control2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Control2\obj\Debug\net8.0\Control2.AssemblyInfoInputs.cache
+D:\Visual\Control2\obj\Debug\net8.0\Control2.AssemblyInfo.cs
+D:\Visual\Control2\obj\Debug\net8.0\Control2.csproj.CoreCompileInputs.cache
+D:\Visual\Control2\obj\Debug\net8.0\Control2.dll
+D:\Visual\Control2\obj\Debug\net8.0\refint\Control2.dll
+D:\Visual\Control2\obj\Debug\net8.0\Control2.pdb
+D:\Visual\Control2\obj\Debug\net8.0\Control2.genruntimeconfig.cache
+D:\Visual\Control2\obj\Debug\net8.0\ref\Control2.dll

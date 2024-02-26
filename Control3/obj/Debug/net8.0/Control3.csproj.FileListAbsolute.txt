@@ -1,0 +1,14 @@
+D:\Visual\Control3\obj\Debug\net8.0\Control3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\Control3\obj\Debug\net8.0\Control3.AssemblyInfoInputs.cache
+D:\Visual\Control3\obj\Debug\net8.0\Control3.AssemblyInfo.cs
+D:\Visual\Control3\obj\Debug\net8.0\Control3.csproj.CoreCompileInputs.cache
+D:\Visual\Control3\bin\Debug\net8.0\Control3.exe
+D:\Visual\Control3\bin\Debug\net8.0\Control3.deps.json
+D:\Visual\Control3\bin\Debug\net8.0\Control3.runtimeconfig.json
+D:\Visual\Control3\bin\Debug\net8.0\Control3.dll
+D:\Visual\Control3\bin\Debug\net8.0\Control3.pdb
+D:\Visual\Control3\obj\Debug\net8.0\Control3.dll
+D:\Visual\Control3\obj\Debug\net8.0\refint\Control3.dll
+D:\Visual\Control3\obj\Debug\net8.0\Control3.pdb
+D:\Visual\Control3\obj\Debug\net8.0\Control3.genruntimeconfig.cache
+D:\Visual\Control3\obj\Debug\net8.0\ref\Control3.dll
